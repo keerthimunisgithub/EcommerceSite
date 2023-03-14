@@ -20,4 +20,10 @@ git status
 git add "filename"
 or
 git add .
-    
+git commit -m "first commit"
+
+modified
+========
+git commit -m "second commit"
+git push
+
