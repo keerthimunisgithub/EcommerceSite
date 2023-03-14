@@ -12,4 +12,12 @@ npm i morgan,
 npm i nodemailer,
 npm i slugify,
 npm i multer sharp cloudinary
+
+git init
+check untracted files
+==================
+git status
+git add "filename"
+or
+git add .
     
