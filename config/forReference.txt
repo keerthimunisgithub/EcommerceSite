@@ -1,0 +1,15 @@
+
+
+npm i bcrypt,
+npm i body-parser,
+npm i cookie-parser,
+npm i dotenv,
+npm i express,
+npm i express-async-handler,
+npm i jsonwebtoken,
+npm i mongoose,
+npm i morgan,
+npm i nodemailer,
+npm i slugify,
+npm i multer sharp cloudinary
+    
