@@ -25,5 +25,6 @@ git commit -m "first commit"
 modified
 ========
 git commit -m "second commit"
+git pull
 git push
 
